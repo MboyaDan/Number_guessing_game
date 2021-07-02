@@ -1,0 +1,13 @@
+Phone number: +254768384224
+Message: ('You scored', 9)
+-------------------
+Date: 2:7:2021
+Time: 18:32
+Phone number: +254768384224
+Message: ('You scored', 9)
+--------------------
+Date: 2:7:2021
+Time: 18:32
+Phone number: +254768384224
+Message: ('You scored', 7)
+---------------------
