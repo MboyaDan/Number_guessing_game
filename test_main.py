@@ -41,6 +41,12 @@ def test_phone_number_digits():
     no = no[1:]
     assert(no==phone)
 
+def test_phone_number_digits_fail():
+    phone = "254768384224"
+    no = compare_nums.get_phone_number(input_phone)
+    no = no[1:]
+    assert(no != phone)
+
 def test_phone_is_digit():
     num = compare_nums.get_phone_number(input_phone)
     num = num[1:]
