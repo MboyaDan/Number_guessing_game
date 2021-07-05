@@ -1,6 +1,6 @@
 Phone number: +254768384224
 Message: ('You scored', 9)
--------------------
+-----------------s
 Date: 2:7:2021
 Time: 18:32
 Phone number: +254768384224
@@ -10,4 +10,24 @@ Date: 2:7:2021
 Time: 18:32
 Phone number: +254768384224
 Message: ('You scored', 7)
----------------------
+--------------------
+Date: 4:7:2021
+Time: 15:46
+Phone number: +254768384224
+Message: You scored 9 out of 10
+--------------------
+Date: 4:7:2021
+Time: 15:49
+Phone number: +254768384224
+Message: You scored 9 out of 10
+--------------------
+Date: 4:7:2021
+Time: 15:54
+Phone number: +254768384224
+Message: You scored 9 out of 10
+--------------------
+Date: 4:7:2021
+Time: 16:28
+Phone number: +254796171309
+Message: You scored 9 out of 10
+--------------------
